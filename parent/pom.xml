@@ -16,11 +16,9 @@ You should have received a copy of the GNU Lesser General Public License along w
 	<packaging>pom</packaging>
 	<properties>
 		<java.version>1.8</java.version>
-		<V.com.braintribe.gm>[1.0, 1.1)</V.com.braintribe.gm>
 		<V.tribefire.cortex.js>[2.0, 2.1)</V.tribefire.cortex.js>
 		<V.tribefire.extension.web-components>[1.0,1.1)</V.tribefire.extension.web-components>
 		<V.tribefire.extension.js>[2.1,2.2)</V.tribefire.extension.js>
-		<V.com.braintribe.gm>[1.0, 1.1)</V.com.braintribe.gm>
 	</properties>
     <licenses>
         <license>
